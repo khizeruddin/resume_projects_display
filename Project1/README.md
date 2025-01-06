@@ -1,4 +1,7 @@
-Project Description: Predictive Modeling ML algorithm and Dashboard Development for Scrap Reduction in Tire Production
+Project Description: Predictive Modeling ML algorithm and Dashboard Development for Scrap Reduction in Tire Production.
+Below, I have 1. Complete project explanation, and 2. Project Code technical implementation. 
+
+To view the Python DSML algorithm code implementation of this project directly, click and navigate to the project file name, which is present beside (on the left) in the index. There, you can see the model trained on sample data and its efficiency and accuracy. 
 
 The project focuses on predictive modeling and dashboard creation to optimize tire production processes by reducing Scrap 56, a specific type of waste categorized under Scrap IV, generated during tire manufacturing. This project uses a combination of historical data analysis, machine learning techniques, and interactive data visualization tools such as Tableau, Power BI, and Excel to deliver actionable insights and improve production efficiency.
 
