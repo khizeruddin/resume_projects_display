@@ -5,5 +5,5 @@ Here I show all my public projects, that I have worked on to upskill myself and 
    - Tools: Python, Google Colab, Scikit-learn, TensorFlow, Neural Networks, Tableau, PowerBI
 2. [Project 2: Forecasting and understanding the types of Steel and its materials, dimensions, variations, Faults and Errors - Machine Learning](Project2/README.md)
    - Tools: Python, Google Colab, Scikit-learn, Linear Regression, Decision Tree, TensorFlow, Neural Networks, Tableau, PowerBI
-3. [Project 3: Other Data science and Machine Learning projets on Customer analysis, Twitter sentiment , etc](Project3/README.md)
+3. [Project 3: Other Data science and Machine Learning projets on Customer analysis, Twitter sentiment , etc](Project3)
    - Tools: Python, Google Colab, Scikit-learn, Linear Regression, Decision Tree, TensorFlow, Neural Networks, Tableau, PowerBI
