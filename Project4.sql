@@ -1,4 +1,5 @@
 -- EDA
+--The layoffs.csv file data source file for this project is on the left. download for editing
 
 -- Here we are jsut going to explore the data and find trends or patterns or anything interesting like outliers
 
