@@ -13,7 +13,8 @@ please click the link below, here I show all my public projects that I have work
 3. [Project 3: Data cleaning using MYSQL. Removing duplicates, creating correct data formats for structured, reliable data tables](Project3)
    - Tools MYSQL, PostgreSQL.
 
-4.[Full Project: Business exploration using data to understand the trends, patterns and insights. Changes, growth and a decrease in the job market and changes in hiring statistics.](Project4)  - Tools MYSQL, PostgreSQL.
+4.[Full Project: Business exploration using data to understand the trends, patterns and insights. Changes, growth and a decrease in the job market and changes in hiring statistics.](Project4)  
+  - Tools MYSQL, PostgreSQL.
 
 5. [Project 3: Other Data Science and Machine Learning projects on Customer analysis, Twitter sentiment, etc](Project5)
    - Tools: Python, Google Colab, Scikit-learn, Linear Regression, Decision Tree, TensorFlow, Neural Networks, Tableau, Power BI
