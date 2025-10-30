@@ -1,9 +1,6 @@
 -- SQL Project - Data Cleaning
 
--- https://www.kaggle.com/datasets/swaptr/layoffs-2022
-
-
-
+--The layoffs.csv file data source file for this project is on the left. download for editing
 
 
 
