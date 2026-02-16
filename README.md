@@ -7,7 +7,7 @@ please click the link below, here I show all my public projects that I have work
 1. [Project 1: Scrap Predicting/ Finances analysis in Tire Production and quality checks- Machine Learning](Project1/README.md)
    - Tools used: Python, Google Colab, Scikit-learn, TensorFlow, Neural Networks, Tableau, Power BI
    
-2. [Project 2: Forecasting and understanding the types of Steel and its materials, dimensions, variations, Faults and Errors - Machine Learning](Project2/Project2.ipynb)
+2. [Project 2: Forecasting and understanding the types of Steel and its materials, dimensions, variations, Faults and Errors - Machine Learning](Project2/README.md)
    - Tools used: Python, Google Colab, Scikit-learn, Linear Regression, Decision Tree, TensorFlow, Neural Networks, Tableau, Power BI
 
 2.2 [Scripts: Sql-data-analytics-project- database exploration, reporting, measures and metrics, time-based trends, cumulative analytics, segmentation, and more](scripts/README.md)
